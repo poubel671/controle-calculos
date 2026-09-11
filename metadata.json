@@ -1,0 +1,8 @@
+{
+  "name": "Controle de Cálculos - Teste 1",
+  "description": "Um jogo de tabuleiro estratégico sobre empreendedorismo e inovação tecnológica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
